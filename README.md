@@ -1,1 +1,1 @@
-# CodeSpaces-GitHub
+# GitHub CodeSpaces Crash Course
